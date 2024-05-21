@@ -1,0 +1,96 @@
+
+
+10:35:23 AM: DEBUG [personaDaoControl.py:33] [31miD: 22[39m
+
+
+10:35:23 AM: INFO [personaDaoControl.py:35] [34mnuevo id = 23[39m
+
+
+10:35:23 AM: DEBUG [personaDaoControl.py:33] [31miD: 23[39m
+
+
+10:35:23 AM: INFO [personaDaoControl.py:35] [34mnuevo id = 24[39m
+
+
+10:35:23 AM: DEBUG [personaDaoControl.py:33] [31miD: 24[39m
+
+
+10:35:23 AM: INFO [personaDaoControl.py:35] [34mnuevo id = 25[39m
+
+
+10:35:23 AM: DEBUG [personaDaoControl.py:33] [31miD: 25[39m
+
+
+10:35:23 AM: INFO [personaDaoControl.py:35] [34mnuevo id = 26[39m
+
+
+10:35:23 AM: DEBUG [personaDaoControl.py:33] [31miD: 26[39m
+
+
+10:35:23 AM: INFO [personaDaoControl.py:35] [34mnuevo id = 27[39m
+
+
+11:37:02 AM: DEBUG [historialComandoDaoControl.py:37] [32mError en save es: 'Stack' object has no attribute '_length'[39m
+
+
+11:37:02 AM: DEBUG [historialComandoDaoControl.py:37] [32mError en save es: 'Stack' object has no attribute '_length'[39m
+
+
+11:38:23 AM: DEBUG [historialComandoDaoControl.py:32] [31miD: 0[39m
+
+
+11:38:23 AM: INFO [historialComandoDaoControl.py:34] [34mnuevo id = 1[39m
+
+
+11:38:23 AM: DEBUG [historialComandoDaoControl.py:37] [32mError en save es: 'NoneType' object has no attribute 'length'[39m
+
+
+11:45:57 AM: DEBUG [historialComandoDaoControl.py:37] [32mError en save es: 'NoneType' object has no attribute 'length'[39m
+
+
+11:46:07 AM: DEBUG [historialComandoDaoControl.py:32] [31miD: 0[39m
+
+
+11:46:07 AM: INFO [historialComandoDaoControl.py:34] [34mnuevo id = 1[39m
+
+
+11:47:46 AM: DEBUG [historialComandoDaoControl.py:32] [31miD: 0[39m
+
+
+11:47:46 AM: INFO [historialComandoDaoControl.py:34] [34mnuevo id = 1[39m
+
+
+11:50:10 AM: DEBUG [historialComandoDaoControl.py:37] [32mError en save es: 'NoneType' object has no attribute 'length'[39m
+
+
+11:50:10 AM: DEBUG [historialComandoDaoControl.py:37] [32mError en save es: 'NoneType' object has no attribute 'length'[39m
+
+
+11:51:56 AM: DEBUG [historialComandoDaoControl.py:37] [32mError en save es: 'NoneType' object has no attribute 'length'[39m
+
+
+11:51:56 AM: DEBUG [historialComandoDaoControl.py:37] [32mError en save es: 'NoneType' object has no attribute 'length'[39m
+
+
+12:06:34 PM: DEBUG [historialComandoDaoControl.py:37] [32mError en save es: 'NoneType' object has no attribute '_length'[39m
+
+
+12:06:34 PM: DEBUG [historialComandoDaoControl.py:37] [32mError en save es: 'NoneType' object has no attribute '_length'[39m
+
+
+12:11:47 PM: DEBUG [historialComandoDaoControl.py:32] [31miD: 0[39m
+
+
+12:11:47 PM: INFO [historialComandoDaoControl.py:34] [34mnuevo id = 1[39m
+
+
+12:11:47 PM: DEBUG [historialComandoDaoControl.py:32] [31miD: 1[39m
+
+
+12:11:47 PM: INFO [historialComandoDaoControl.py:34] [34mnuevo id = 2[39m
+
+
+03:42:52 PM: DEBUG [historialComandoDaoControl.py:38] [32mError en save es: 'NoneType' object has no attribute '_length'[39m
+
+
+03:42:52 PM: DEBUG [historialComandoDaoControl.py:38] [32mError en save es: 'NoneType' object has no attribute '_length'[39m

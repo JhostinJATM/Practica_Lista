@@ -1,0 +1,2427 @@
+
+
+12:19:43 PM: INFO [_internal.py:97] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+
+
+12:19:43 PM: INFO [_internal.py:97] [33mPress CTRL+C to quit[0m
+
+
+12:19:43 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+12:19:44 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+12:19:45 PM: INFO [_internal.py:97]  * Debugger PIN: 478-478-581
+
+
+12:19:46 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:46] "GET / HTTP/1.1" 200 -
+
+
+12:19:47 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:47] "GET /static/imgs/macbook.svg HTTP/1.1" 200 -
+
+
+12:19:47 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:47] "GET /static/imgs/App%20Store.svg HTTP/1.1" 200 -
+
+
+12:19:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:48] "GET /static/imgs/Play%20Store.svg HTTP/1.1" 200 -
+
+
+12:19:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:48] "GET /static/imgs/header.png HTTP/1.1" 200 -
+
+
+12:19:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+
+
+12:19:52 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:52] "GET /personas HTTP/1.1" 200 -
+
+
+12:19:52 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:52] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:19:52 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:52] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:19:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:53] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:19:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:53] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:19:55 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:55] "GET /personas/ver HTTP/1.1" 200 -
+
+
+12:19:55 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:55] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:19:55 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:55] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:19:56 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:56] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:19:56 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:19:56] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:20:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:21] "GET /personas/ver HTTP/1.1" 200 -
+
+
+12:20:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:21] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:20:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:21] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:20:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:21] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:20:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:21] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:20:22 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:22] "GET /personas HTTP/1.1" 200 -
+
+
+12:20:22 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:22] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:20:22 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:22] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:20:22 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:22] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:20:22 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:22] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:20:23 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:23] "GET /personas/ver HTTP/1.1" 200 -
+
+
+12:20:24 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:24] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:20:24 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:24] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:20:24 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:24] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:20:24 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:24] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:20:30 PM: DEBUG [historialComandoDaoControl.py:32] [31miD: 2[39m
+
+
+12:20:30 PM: INFO [historialComandoDaoControl.py:34] [34mnuevo id = 3[39m
+
+
+12:20:30 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:30] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+12:20:30 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:30] "GET /personas HTTP/1.1" 200 -
+
+
+12:20:30 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:30] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:20:30 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:30] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:20:30 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:30] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:20:30 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:20:30] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:22:09 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Listas\\Practica1\\routes\\router.py', reloading
+
+
+12:22:09 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+12:22:10 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+12:22:10 PM: INFO [_internal.py:97]  * Debugger PIN: 478-478-581
+
+
+12:22:12 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:12] "GET /personas HTTP/1.1" 200 -
+
+
+12:22:12 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:12] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:22:12 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:12] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:22:12 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:12] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:22:12 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:12] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:22:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:13] "GET /personas/ver HTTP/1.1" 200 -
+
+
+12:22:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:13] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:22:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:13] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:22:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:13] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:22:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:13] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:22:18 PM: DEBUG [historialComandoDaoControl.py:32] [31miD: 3[39m
+
+
+12:22:18 PM: INFO [historialComandoDaoControl.py:34] [34mnuevo id = 4[39m
+
+
+12:22:18 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:18] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+12:22:18 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:18] "GET /personas HTTP/1.1" 200 -
+
+
+12:22:18 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:18] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:22:18 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:18] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:22:18 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:18] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:22:18 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:22:18] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:23:25 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Listas\\Practica1\\routes\\router.py', reloading
+
+
+12:23:25 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+12:23:27 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+12:23:27 PM: INFO [_internal.py:97]  * Debugger PIN: 478-478-581
+
+
+12:23:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:48] "GET /personas HTTP/1.1" 200 -
+
+
+12:23:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:48] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:23:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:48] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:23:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:49] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:23:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:49] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:23:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:50] "GET /personas/ver HTTP/1.1" 200 -
+
+
+12:23:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:50] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:23:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:50] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:23:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:50] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:23:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:50] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:23:59 PM: DEBUG [historialComandoDaoControl.py:32] [31miD: 4[39m
+
+
+12:23:59 PM: INFO [historialComandoDaoControl.py:34] [34mnuevo id = 5[39m
+
+
+12:23:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:59] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+12:23:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:59] "GET /personas HTTP/1.1" 200 -
+
+
+12:23:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:59] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:23:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:59] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:23:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:59] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:23:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:23:59] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:29:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:29:09] "GET /personas HTTP/1.1" 200 -
+
+
+12:29:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:29:09] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:29:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:29:10] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:29:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:29:10] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:29:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:29:10] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:29:11 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:29:11] "GET /personas/editar/1 HTTP/1.1" 200 -
+
+
+12:29:11 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:29:11] "[33mGET /personas/static/imgs/macbook.svg HTTP/1.1[0m" 404 -
+
+
+12:29:11 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:29:11] "[33mGET /personas/static/imgs/App%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:29:11 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:29:11] "[33mGET /personas/static/imgs/Play%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:29:11 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:29:11] "[33mGET /personas/static/imgs/header.png HTTP/1.1[0m" 404 -
+
+
+12:30:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:30:29] "GET /personas/editar/1 HTTP/1.1" 200 -
+
+
+12:30:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:30:29] "[33mGET /personas/static/imgs/macbook.svg HTTP/1.1[0m" 404 -
+
+
+12:30:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:30:29] "[33mGET /personas/static/imgs/App%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:30:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:30:29] "[33mGET /personas/static/imgs/Play%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:30:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:30:29] "[33mGET /personas/static/imgs/header.png HTTP/1.1[0m" 404 -
+
+
+12:32:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:32:10] "GET /personas/editar/1 HTTP/1.1" 200 -
+
+
+12:32:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:32:10] "[33mGET /personas/static/imgs/macbook.svg HTTP/1.1[0m" 404 -
+
+
+12:32:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:32:10] "[33mGET /personas/static/imgs/App%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:32:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:32:10] "[33mGET /personas/static/imgs/Play%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:32:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:32:10] "[33mGET /personas/static/imgs/header.png HTTP/1.1[0m" 404 -
+
+
+12:33:15 PM: INFO [_internal.py:97] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+
+
+12:33:15 PM: INFO [_internal.py:97] [33mPress CTRL+C to quit[0m
+
+
+12:33:15 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+12:33:16 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+12:33:16 PM: INFO [_internal.py:97]  * Debugger PIN: 478-478-581
+
+
+12:33:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:21] "GET / HTTP/1.1" 200 -
+
+
+12:33:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:21] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:33:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:21] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:33:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:21] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:33:22 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:22] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:33:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:29] "GET /personas HTTP/1.1" 200 -
+
+
+12:33:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:29] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:33:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:29] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:33:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:29] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:33:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:29] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:33:31 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:31] "GET /personas/editar/5 HTTP/1.1" 200 -
+
+
+12:33:31 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:31] "[33mGET /personas/static/imgs/macbook.svg HTTP/1.1[0m" 404 -
+
+
+12:33:31 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:31] "[33mGET /personas/static/imgs/App%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:33:31 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:31] "[33mGET /personas/static/imgs/Play%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:33:31 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:31] "[33mGET /personas/static/imgs/header.png HTTP/1.1[0m" 404 -
+
+
+12:33:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:35] "GET /personas HTTP/1.1" 200 -
+
+
+12:33:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:35] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:33:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:35] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:33:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:35] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:33:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:33:35] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:34:38 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Listas\\Practica1\\routes\\router.py', reloading
+
+
+12:34:38 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+12:34:40 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+12:34:40 PM: INFO [_internal.py:97]  * Debugger PIN: 478-478-581
+
+
+12:34:41 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:41] "GET /personas/editar/1 HTTP/1.1" 200 -
+
+
+12:34:41 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:41] "[33mGET /personas/static/imgs/macbook.svg HTTP/1.1[0m" 404 -
+
+
+12:34:41 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:41] "[33mGET /personas/static/imgs/App%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:34:41 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:41] "[33mGET /personas/static/imgs/Play%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:34:41 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:41] "[33mGET /personas/static/imgs/header.png HTTP/1.1[0m" 404 -
+
+
+12:34:46 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:46] "GET /personas HTTP/1.1" 200 -
+
+
+12:34:47 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:47] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:34:47 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:47] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:34:47 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:47] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:34:47 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:47] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:34:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:48] "GET /personas/editar/1 HTTP/1.1" 200 -
+
+
+12:34:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:48] "[33mGET /personas/static/imgs/macbook.svg HTTP/1.1[0m" 404 -
+
+
+12:34:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:48] "[33mGET /personas/static/imgs/App%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:34:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:48] "[33mGET /personas/static/imgs/Play%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:34:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:48] "[33mGET /personas/static/imgs/header.png HTTP/1.1[0m" 404 -
+
+
+12:34:58 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:58] "[32mPOST /personas/modificar HTTP/1.1[0m" 302 -
+
+
+12:34:58 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:58] "GET /personas HTTP/1.1" 200 -
+
+
+12:34:58 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:58] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:34:58 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:58] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:34:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:59] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:34:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:34:59] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:35:23 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:35:23] "GET /personas/editar/1 HTTP/1.1" 200 -
+
+
+12:35:23 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:35:23] "[33mGET /personas/static/imgs/macbook.svg HTTP/1.1[0m" 404 -
+
+
+12:35:23 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:35:23] "[33mGET /personas/static/imgs/App%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:35:23 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:35:23] "[33mGET /personas/static/imgs/Play%20Store.svg HTTP/1.1[0m" 404 -
+
+
+12:35:24 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:35:24] "[33mGET /personas/static/imgs/header.png HTTP/1.1[0m" 404 -
+
+
+12:36:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:36:57] "GET /personas HTTP/1.1" 200 -
+
+
+12:36:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:36:57] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:36:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:36:57] "[36mGET /static/imgs/App%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:36:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:36:57] "[36mGET /static/imgs/Play%20Store.svg HTTP/1.1[0m" 304 -
+
+
+12:36:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:36:57] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:37:26 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:37:26] "GET /personas HTTP/1.1" 200 -
+
+
+12:37:26 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:37:26] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:37:27 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:37:27] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:37:39 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:37:39] "GET /personas HTTP/1.1" 200 -
+
+
+12:37:39 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:37:39] "[36mGET /static/imgs/macbook.svg HTTP/1.1[0m" 304 -
+
+
+12:37:39 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:37:39] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:37:51 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:37:51] "GET /personas HTTP/1.1" 200 -
+
+
+12:37:52 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:37:52] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:37:55 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:37:55] "GET /personas/editar/1 HTTP/1.1" 200 -
+
+
+12:37:56 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:37:56] "[33mGET /personas/static/imgs/header.png HTTP/1.1[0m" 404 -
+
+
+12:39:12 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:39:12] "GET /personas/editar/1 HTTP/1.1" 200 -
+
+
+12:39:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:39:13] "[33mGET /personas/static/imgs/header.png HTTP/1.1[0m" 404 -
+
+
+12:39:15 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:39:15] "GET /personas HTTP/1.1" 200 -
+
+
+12:39:16 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:39:16] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:39:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:39:21] "GET /personas/editar/4 HTTP/1.1" 200 -
+
+
+12:39:22 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:39:22] "[33mGET /personas/static/imgs/header.png HTTP/1.1[0m" 404 -
+
+
+12:42:28 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:42:28] "GET /personas HTTP/1.1" 200 -
+
+
+12:42:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:42:29] "GET /static/imgs/header.png HTTP/1.1" 200 -
+
+
+12:42:31 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:42:31] "GET /personas/editar/1 HTTP/1.1" 200 -
+
+
+12:42:32 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:42:32] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+12:43:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:43:07] "GET /personas HTTP/1.1" 200 -
+
+
+12:43:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 12:43:07] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:17:03 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Listas\\Practica1\\controller\\historialComandoDaoControl.py', reloading
+
+
+01:17:03 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+01:17:04 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+01:17:04 PM: INFO [_internal.py:97]  * Debugger PIN: 478-478-581
+
+
+01:17:56 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:17:56] "GET /personas HTTP/1.1" 200 -
+
+
+01:17:56 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:17:56] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:18:00 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:18:00] "GET /personas/ver HTTP/1.1" 200 -
+
+
+01:18:00 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:18:00] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:18:14 PM: DEBUG [historialComandoDaoControl.py:43] Error en save es: 'super' object has no attribute 'save'
+
+
+01:18:14 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:18:14] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+01:18:14 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:18:14] "GET /personas HTTP/1.1" 200 -
+
+
+01:18:14 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:18:14] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:18:28 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:18:28] "GET /personas/ver HTTP/1.1" 200 -
+
+
+01:18:28 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:18:28] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:18:31 PM: DEBUG [historialComandoDaoControl.py:43] Error en save es: 'super' object has no attribute 'save'
+
+
+01:18:31 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:18:31] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+01:18:31 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:18:31] "GET /personas HTTP/1.1" 200 -
+
+
+01:18:32 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:18:32] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:19:03 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Listas\\Practica1\\controller\\historialComandoDaoControl.py', reloading
+
+
+01:19:03 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+01:19:05 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+01:19:05 PM: INFO [_internal.py:97]  * Debugger PIN: 478-478-581
+
+
+01:19:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:19:09] "GET /personas/ver HTTP/1.1" 200 -
+
+
+01:19:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:19:09] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:19:13 PM: DEBUG [historialComandoDaoControl.py:43] Error en save es: 'super' object has no attribute 'save'
+
+
+01:19:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:19:13] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+01:19:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:19:13] "GET /personas HTTP/1.1" 200 -
+
+
+01:19:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:19:13] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:19:29 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Listas\\Practica1\\controller\\historialComandoDaoControl.py', reloading
+
+
+01:19:30 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+01:19:31 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+01:19:31 PM: INFO [_internal.py:97]  * Debugger PIN: 478-478-581
+
+
+01:19:34 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:19:34] "GET /personas HTTP/1.1" 200 -
+
+
+01:19:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:19:35] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:19:38 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:19:38] "GET /personas/ver HTTP/1.1" 200 -
+
+
+01:19:38 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:19:38] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:19:45 PM: DEBUG [historialComandoDaoControl.py:48] [31miD: 19[39m
+
+
+01:19:45 PM: INFO [historialComandoDaoControl.py:50] [34mnuevo id = 20[39m
+
+
+01:19:45 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:19:45] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+01:19:46 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:19:46] "GET /personas HTTP/1.1" 200 -
+
+
+01:19:46 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:19:46] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:22:00 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Listas\\Practica1\\controller\\historialComandoDaoControl.py', reloading
+
+
+01:22:00 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+01:22:01 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+01:22:01 PM: INFO [_internal.py:97]  * Debugger PIN: 478-478-581
+
+
+01:22:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:22:09] "GET /personas/ver HTTP/1.1" 200 -
+
+
+01:22:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:22:10] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:22:25 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:22:25] "GET /personas/ver HTTP/1.1" 200 -
+
+
+01:22:25 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:22:25] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:22:39 PM: DEBUG [historialComandoDaoControl.py:56] [31miD: 20[39m
+
+
+01:22:39 PM: INFO [historialComandoDaoControl.py:59] [34mnuevo id = 21[39m
+
+
+01:22:39 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:22:39] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+01:22:39 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:22:39] "GET /personas HTTP/1.1" 200 -
+
+
+01:22:39 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:22:39] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:24:58 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Listas\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+01:24:58 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+01:25:00 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+01:25:00 PM: INFO [_internal.py:97]  * Debugger PIN: 478-478-581
+
+
+01:25:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:01] "GET /personas HTTP/1.1" 200 -
+
+
+01:25:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:01] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:25:03 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:03] "GET /personas/ver HTTP/1.1" 200 -
+
+
+01:25:03 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:03] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:25:07 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 18[39m
+
+
+01:25:07 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 19[39m
+
+
+01:25:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:07] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+01:25:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:08] "GET /personas HTTP/1.1" 200 -
+
+
+01:25:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:08] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:25:14 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:14] "GET /personas/ver HTTP/1.1" 200 -
+
+
+01:25:14 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:14] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:25:21 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 19[39m
+
+
+01:25:21 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 20[39m
+
+
+01:25:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:21] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+01:25:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:21] "GET /personas HTTP/1.1" 200 -
+
+
+01:25:22 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:22] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:25:26 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:26] "GET /personas/ver HTTP/1.1" 200 -
+
+
+01:25:26 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:26] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:25:35 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 20[39m
+
+
+01:25:35 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 21[39m
+
+
+01:25:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:35] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+01:25:36 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:36] "GET /personas HTTP/1.1" 200 -
+
+
+01:25:36 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:25:36] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:26:38 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Listas\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+01:26:38 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+01:26:40 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+01:26:40 PM: INFO [_internal.py:97]  * Debugger PIN: 478-478-581
+
+
+01:26:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:26:57] "GET /personas HTTP/1.1" 200 -
+
+
+01:26:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:26:57] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:27:00 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:27:00] "GET /personas/ver HTTP/1.1" 200 -
+
+
+01:27:00 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:27:00] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:27:03 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 19[39m
+
+
+01:27:03 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 20[39m
+
+
+01:27:03 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:27:03] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+01:27:03 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:27:03] "GET /personas HTTP/1.1" 200 -
+
+
+01:27:04 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:27:04] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:27:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:27:07] "GET /personas/ver HTTP/1.1" 200 -
+
+
+01:27:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:27:07] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:27:15 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 20[39m
+
+
+01:27:15 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 21[39m
+
+
+01:27:15 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:27:15] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+01:27:15 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:27:15] "GET /personas HTTP/1.1" 200 -
+
+
+01:27:15 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:27:15] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+01:32:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:32:53] "GET /personas HTTP/1.1" 200 -
+
+
+01:32:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 13:32:53] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:25:24 PM: INFO [_internal.py:97] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+
+
+03:25:24 PM: INFO [_internal.py:97] [33mPress CTRL+C to quit[0m
+
+
+03:25:24 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:25:25 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:25:25 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:25:30 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:30] "GET / HTTP/1.1" 200 -
+
+
+03:25:31 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:31] "GET /static/imgs/header.png HTTP/1.1" 200 -
+
+
+03:25:34 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:34] "GET /personas HTTP/1.1" 200 -
+
+
+03:25:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:35] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:25:36 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:36] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:25:36 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:36] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:25:39 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:39] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:25:39 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:39] "GET /personas HTTP/1.1" 200 -
+
+
+03:25:40 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:40] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:25:44 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:44] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:25:44 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:44] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:25:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:48] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:25:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:48] "GET /personas HTTP/1.1" 200 -
+
+
+03:25:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:49] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:25:56 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:56] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:25:56 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:25:56] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:26:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:07] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:26:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:07] "GET /personas HTTP/1.1" 200 -
+
+
+03:26:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:07] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:26:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:08] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:26:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:08] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:26:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:13] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:26:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:13] "GET /personas HTTP/1.1" 200 -
+
+
+03:26:14 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:14] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:26:14 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:14] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:26:15 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:15] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:26:19 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:19] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:26:19 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:19] "GET /personas HTTP/1.1" 200 -
+
+
+03:26:19 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:19] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:26:20 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:20] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:26:20 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:20] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:26:24 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:24] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:26:24 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:24] "GET /personas HTTP/1.1" 200 -
+
+
+03:26:24 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:24] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:26:25 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:25] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:26:25 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:25] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:26:40 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:40] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:26:40 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:40] "GET /personas HTTP/1.1" 200 -
+
+
+03:26:40 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:26:40] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:27:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:10] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:27:11 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:11] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:27:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:13] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:27:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:13] "GET /personas HTTP/1.1" 200 -
+
+
+03:27:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:13] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:27:14 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:14] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:27:14 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:14] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:27:18 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:18] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:27:18 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:18] "GET /personas HTTP/1.1" 200 -
+
+
+03:27:18 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:18] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:27:19 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:19] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:27:19 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:19] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:27:23 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:23] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:27:23 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:23] "GET /personas HTTP/1.1" 200 -
+
+
+03:27:23 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:23] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:27:24 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:24] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:27:25 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:25] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:27:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:35] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:27:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:35] "GET /personas HTTP/1.1" 200 -
+
+
+03:27:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:35] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:27:37 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:37] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:27:37 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:37] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:27:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:49] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:27:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:49] "GET /personas HTTP/1.1" 200 -
+
+
+03:27:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:49] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:27:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:50] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:27:51 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:51] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:27:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:59] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:27:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:59] "GET /personas HTTP/1.1" 200 -
+
+
+03:27:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:27:59] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:28:00 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:00] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:28:00 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:00] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:28:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:07] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:28:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:07] "GET /personas HTTP/1.1" 200 -
+
+
+03:28:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:07] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:28:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:08] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:28:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:08] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:28:20 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:20] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:28:20 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:20] "GET /personas HTTP/1.1" 200 -
+
+
+03:28:20 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:20] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:28:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:21] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:28:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:21] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:28:41 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:41] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:28:41 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:41] "GET /personas HTTP/1.1" 200 -
+
+
+03:28:41 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:41] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:28:45 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:45] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:28:45 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:28:45] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:29:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:29:01] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:29:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:29:01] "GET /personas HTTP/1.1" 200 -
+
+
+03:29:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:29:01] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:29:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:29:09] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:29:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:29:09] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:29:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:29:21] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:29:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:29:21] "GET /personas HTTP/1.1" 200 -
+
+
+03:29:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:29:21] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:36:53 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+03:36:53 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:36:54 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:36:54 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:37:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:37:13] "GET /personas HTTP/1.1" 200 -
+
+
+03:37:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:37:13] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:37:15 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:37:15] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:37:15 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:37:15] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:37:17 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:37:17] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:37:17 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:37:17] "GET /personas HTTP/1.1" 200 -
+
+
+03:37:17 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:37:17] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:37:27 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:37:27] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:37:27 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:37:27] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:37:29 PM: DEBUG [historialComandoDaoControl.py:38] [32mError en save es: 'NoneType' object has no attribute '_length'[39m
+
+
+03:37:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:37:29] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:37:29 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:37:29] "GET /personas HTTP/1.1" 200 -
+
+
+03:37:30 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:37:30] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:38:59 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+03:38:59 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:39:00 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:39:00 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:39:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:39:07] "GET /personas HTTP/1.1" 200 -
+
+
+03:39:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:39:08] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:39:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:39:08] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:39:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:39:08] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:39:15 PM: DEBUG [historialComandoDaoControl.py:38] [32mError en save es: 'NoneType' object has no attribute '_length'[39m
+
+
+03:39:15 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:39:15] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:39:15 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:39:15] "GET /personas HTTP/1.1" 200 -
+
+
+03:39:15 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:39:15] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:39:52 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+03:39:52 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:39:54 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:39:54 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:39:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:39:57] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:39:58 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:39:58] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:39:59 PM: DEBUG [historialComandoDaoControl.py:38] [32mError en save es: 'NoneType' object has no attribute '_length'[39m
+
+
+03:39:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:39:59] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:39:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:39:59] "GET /personas HTTP/1.1" 200 -
+
+
+03:40:00 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:40:00] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:40:47 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+03:40:47 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:40:48 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:40:48 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:40:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:40:49] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:40:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:40:50] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:40:53 PM: DEBUG [historialComandoDaoControl.py:38] [32mError en save es: 'NoneType' object has no attribute '_length'[39m
+
+
+03:40:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:40:53] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:40:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:40:53] "GET /personas HTTP/1.1" 200 -
+
+
+03:40:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:40:53] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:41:03 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+03:41:03 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:41:05 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:41:05 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:41:05 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:41:05] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:41:05 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:41:05] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:41:07 PM: DEBUG [historialComandoDaoControl.py:38] [32mError en save es: 'NoneType' object has no attribute '_length'[39m
+
+
+03:41:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:41:07] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:41:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:41:07] "GET /personas HTTP/1.1" 200 -
+
+
+03:41:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:41:07] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:41:43 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+03:41:43 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:41:45 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:41:45 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:41:57 PM: INFO [_internal.py:97] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+
+
+03:41:57 PM: INFO [_internal.py:97] [33mPress CTRL+C to quit[0m
+
+
+03:41:57 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:41:59 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:41:59 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:42:00 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:42:00] "GET / HTTP/1.1" 200 -
+
+
+03:42:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:42:01] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:42:05 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:42:05] "GET /personas HTTP/1.1" 200 -
+
+
+03:42:05 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:42:05] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:42:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:42:07] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:42:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:42:07] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:42:09 PM: DEBUG [historialComandoDaoControl.py:38] [32mError en save es: 'NoneType' object has no attribute '_length'[39m
+
+
+03:42:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:42:09] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:42:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:42:09] "GET /personas HTTP/1.1" 200 -
+
+
+03:42:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:42:10] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:43:38 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:38] "GET /personas HTTP/1.1" 200 -
+
+
+03:43:38 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:38] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:43:42 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:42] "GET /personas HTTP/1.1" 200 -
+
+
+03:43:42 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:42] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:43:44 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:44] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:43:44 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:44] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:43:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:48] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:43:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:48] "GET /personas HTTP/1.1" 200 -
+
+
+03:43:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:48] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:43:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:50] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:43:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:50] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:43:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:53] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:43:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:53] "GET /personas HTTP/1.1" 200 -
+
+
+03:43:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:53] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:43:55 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:55] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:43:56 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:56] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:43:58 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:58] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:43:58 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:58] "GET /personas HTTP/1.1" 200 -
+
+
+03:43:58 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:43:58] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:44:00 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:44:00] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:44:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:44:01] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:44:03 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:44:03] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:44:03 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:44:03] "GET /personas HTTP/1.1" 200 -
+
+
+03:44:03 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:44:03] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:44:06 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:44:06] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:44:06 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:44:06] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:44:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:44:09] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:44:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:44:09] "GET /personas HTTP/1.1" 200 -
+
+
+03:44:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:44:09] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:46:50 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\historialComandoDaoControl.py', reloading
+
+
+03:46:50 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:46:52 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:46:52 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:46:52 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:46:52] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:46:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:46:53] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:46:55 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 7[39m
+
+
+03:46:55 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 8[39m
+
+
+03:46:55 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:46:55] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:46:55 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:46:55] "GET /personas HTTP/1.1" 200 -
+
+
+03:46:56 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:46:56] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:47:03 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:47:03] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:47:04 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:47:04] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:47:07 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 8[39m
+
+
+03:47:07 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 9[39m
+
+
+03:47:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:47:07] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:47:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:47:07] "GET /personas HTTP/1.1" 200 -
+
+
+03:47:07 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:47:07] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:47:25 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+03:47:25 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:47:27 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:47:27 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:47:36 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+03:47:36 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:47:37 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:47:37 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:47:38 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:47:38] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:47:38 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:47:38] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:47:40 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 9[39m
+
+
+03:47:40 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 10[39m
+
+
+03:47:40 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:47:40] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:47:40 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:47:40] "GET /personas HTTP/1.1" 200 -
+
+
+03:47:40 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:47:40] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:48:55 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+03:48:55 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:48:56 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:48:56 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:48:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:48:57] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:48:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:48:57] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:49:01 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 10[39m
+
+
+03:49:01 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 11[39m
+
+
+03:49:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:49:01] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:49:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:49:01] "GET /personas HTTP/1.1" 200 -
+
+
+03:49:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:49:01] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:54:42 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+03:54:42 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:54:44 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:54:44 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:54:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:54:50] "GET /personas HTTP/1.1" 200 -
+
+
+03:54:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:54:50] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:54:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:54:53] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:54:53 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:54:53] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:54:55 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 10[39m
+
+
+03:54:55 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 11[39m
+
+
+03:54:55 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:54:55] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:54:55 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:54:55] "GET /personas HTTP/1.1" 200 -
+
+
+03:54:56 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:54:56] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:56:23 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+03:56:23 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:56:24 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:56:24 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:56:24 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:56:24] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:56:25 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:56:25] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:56:27 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 10[39m
+
+
+03:56:27 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 11[39m
+
+
+03:56:27 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:56:27] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:56:27 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:56:27] "GET /personas HTTP/1.1" 200 -
+
+
+03:56:27 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:56:27] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:56:44 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:56:44] "GET /personas HTTP/1.1" 200 -
+
+
+03:56:45 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:56:45] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:57:33 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:57:33] "GET /personas HTTP/1.1" 200 -
+
+
+03:57:34 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:57:34] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:57:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:57:35] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:57:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:57:35] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:57:36 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:57:36] "GET /personas HTTP/1.1" 200 -
+
+
+03:57:36 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:57:36] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:57:37 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:57:37] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:57:38 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:57:38] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:57:40 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 10[39m
+
+
+03:57:40 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 11[39m
+
+
+03:57:40 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:57:40] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:57:40 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:57:40] "GET /personas HTTP/1.1" 200 -
+
+
+03:57:41 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:57:41] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:58:13 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+03:58:14 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+03:58:15 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+03:58:15 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+03:58:26 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:58:26] "GET /personas HTTP/1.1" 200 -
+
+
+03:58:27 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:58:27] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:58:30 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:58:30] "GET /personas/ver HTTP/1.1" 200 -
+
+
+03:58:30 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:58:30] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+03:58:48 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 10[39m
+
+
+03:58:48 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 11[39m
+
+
+03:58:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:58:48] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+03:58:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:58:48] "GET /personas HTTP/1.1" 200 -
+
+
+03:58:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 15:58:48] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+04:04:22 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+04:04:22 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+04:04:23 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+04:04:23 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+04:04:24 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 16:04:24] "GET /personas HTTP/1.1" 200 -
+
+
+04:04:25 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 16:04:25] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+04:04:26 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 16:04:26] "GET /personas/ver HTTP/1.1" 200 -
+
+
+04:04:27 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 16:04:27] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+04:04:33 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 11[39m
+
+
+04:04:33 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 12[39m
+
+
+04:04:34 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 16:04:34] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+04:04:34 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 16:04:34] "GET /personas HTTP/1.1" 200 -
+
+
+04:04:34 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 16:04:34] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+04:04:48 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+04:04:48 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+04:04:50 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+04:04:50 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+04:04:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 16:04:50] "GET /personas/ver HTTP/1.1" 200 -
+
+
+04:04:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 16:04:50] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+04:04:56 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 11[39m
+
+
+04:04:56 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 12[39m
+
+
+04:04:56 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 16:04:56] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+04:04:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 16:04:57] "GET /personas HTTP/1.1" 200 -
+
+
+04:04:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [19/May/2024 16:04:57] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:50:34 PM: INFO [_internal.py:97] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+
+
+06:50:34 PM: INFO [_internal.py:97] [33mPress CTRL+C to quit[0m
+
+
+06:50:34 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+06:50:37 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+06:50:37 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+06:51:12 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:51:12] "GET / HTTP/1.1" 200 -
+
+
+06:51:13 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:51:13] "GET /static/imgs/header.png HTTP/1.1" 200 -
+
+
+06:51:17 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:51:17] "GET /personas HTTP/1.1" 200 -
+
+
+06:51:18 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:51:18] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:51:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:51:21] "GET /personas/ver HTTP/1.1" 200 -
+
+
+06:51:22 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:51:22] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:51:27 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 12[39m
+
+
+06:51:27 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 13[39m
+
+
+06:51:28 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:51:28] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+06:51:28 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:51:28] "GET /personas HTTP/1.1" 200 -
+
+
+06:51:28 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:51:28] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:51:48 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:51:48] "GET /personas HTTP/1.1" 200 -
+
+
+06:51:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:51:49] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:52:02 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:52:02] "GET /personas HTTP/1.1" 200 -
+
+
+06:52:02 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:52:02] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:52:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:52:08] "GET /personas HTTP/1.1" 200 -
+
+
+06:52:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:52:08] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:53:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:53:08] "GET /personas HTTP/1.1" 200 -
+
+
+06:53:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:53:09] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:53:46 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+06:53:46 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+06:53:48 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+06:53:48 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+06:54:11 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+06:54:12 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+06:54:14 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+06:54:14 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+06:54:21 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:21] "GET /personas HTTP/1.1" 200 -
+
+
+06:54:22 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:22] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:54:22 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:22] "GET /personas/ver HTTP/1.1" 200 -
+
+
+06:54:23 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:23] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:54:25 PM: DEBUG [historialComandoDaoControl.py:39] [32mError en save es: 'NoneType' object has no attribute '_length'[39m
+
+
+06:54:25 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:25] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+06:54:25 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:25] "GET /personas HTTP/1.1" 200 -
+
+
+06:54:25 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:25] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:54:27 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:27] "GET /personas/ver HTTP/1.1" 200 -
+
+
+06:54:27 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:27] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:54:30 PM: DEBUG [historialComandoDaoControl.py:39] [32mError en save es: 'NoneType' object has no attribute '_length'[39m
+
+
+06:54:30 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:30] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+06:54:30 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:30] "GET /personas HTTP/1.1" 200 -
+
+
+06:54:31 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:31] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:54:39 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+06:54:39 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+06:54:42 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+06:54:42 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+06:54:42 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:42] "GET /personas HTTP/1.1" 200 -
+
+
+06:54:43 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:43] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:54:43 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:43] "GET /personas/ver HTTP/1.1" 200 -
+
+
+06:54:43 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:43] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:54:45 PM: DEBUG [historialComandoDaoControl.py:39] [32mError en save es: 'NoneType' object has no attribute '_length'[39m
+
+
+06:54:45 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:45] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+06:54:45 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:45] "GET /personas HTTP/1.1" 200 -
+
+
+06:54:46 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:54:46] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:54:59 PM: INFO [_internal.py:97] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+
+
+06:54:59 PM: INFO [_internal.py:97] [33mPress CTRL+C to quit[0m
+
+
+06:54:59 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+06:55:01 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+06:55:01 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+06:55:02 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:55:02] "GET /personas HTTP/1.1" 200 -
+
+
+06:55:02 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:55:02] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:55:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:55:09] "GET / HTTP/1.1" 200 -
+
+
+06:55:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:55:10] "GET /static/imgs/header.png HTTP/1.1" 200 -
+
+
+06:55:17 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:55:17] "GET /personas HTTP/1.1" 200 -
+
+
+06:55:17 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:55:17] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:56:01 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+06:56:01 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+06:56:04 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+06:56:04 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+06:56:13 PM: INFO [_internal.py:97] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+
+
+06:56:13 PM: INFO [_internal.py:97] [33mPress CTRL+C to quit[0m
+
+
+06:56:13 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+06:56:16 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+06:56:16 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+06:56:16 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:56:16] "GET / HTTP/1.1" 200 -
+
+
+06:56:17 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:56:17] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:56:23 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:56:23] "GET /personas HTTP/1.1" 200 -
+
+
+06:56:23 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:56:23] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:56:25 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:56:25] "GET /personas/ver HTTP/1.1" 200 -
+
+
+06:56:25 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:56:25] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+06:56:28 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 0[39m
+
+
+06:56:28 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 1[39m
+
+
+06:56:28 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:56:28] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+06:56:28 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:56:28] "GET /personas HTTP/1.1" 200 -
+
+
+06:56:28 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 18:56:28] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:01:50 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+07:01:50 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+07:01:52 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+07:01:52 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+07:01:56 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:01:56] "GET /personas/ver HTTP/1.1" 200 -
+
+
+07:01:57 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:01:57] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:02:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:01] "GET /personas HTTP/1.1" 200 -
+
+
+07:02:02 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:02] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:02:04 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:04] "GET /personas/ver HTTP/1.1" 200 -
+
+
+07:02:04 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:04] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:02:08 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 3[39m
+
+
+07:02:08 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 4[39m
+
+
+07:02:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:08] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+07:02:08 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:08] "GET /personas HTTP/1.1" 200 -
+
+
+07:02:09 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:09] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:02:10 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:10] "GET /personas/ver HTTP/1.1" 200 -
+
+
+07:02:11 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:11] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:02:16 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 4[39m
+
+
+07:02:16 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 5[39m
+
+
+07:02:16 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:16] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+07:02:16 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:16] "GET /personas HTTP/1.1" 200 -
+
+
+07:02:17 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:17] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:02:33 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:33] "GET /personas/ver HTTP/1.1" 200 -
+
+
+07:02:33 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:02:33] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:16:03 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:16:03] "GET /personas HTTP/1.1" 200 -
+
+
+07:16:03 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:16:03] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:16:35 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+07:16:36 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+07:16:38 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+07:16:38 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+07:19:54 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:19:54] "GET /personas/editar/5 HTTP/1.1" 200 -
+
+
+07:19:54 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:19:54] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:19:58 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:19:58] "[32mPOST /personas/modificar HTTP/1.1[0m" 302 -
+
+
+07:19:58 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:19:58] "GET /personas HTTP/1.1" 200 -
+
+
+07:19:59 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:19:59] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:20:58 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:20:58] "GET /personas/ver HTTP/1.1" 200 -
+
+
+07:20:58 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:20:58] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:21:15 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\historialComandoControl.py', reloading
+
+
+07:21:15 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+07:21:18 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+07:21:18 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+07:21:18 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:21:18] "GET /personas/ver HTTP/1.1" 200 -
+
+
+07:21:19 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:21:19] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:21:20 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:21:20] "GET /personas HTTP/1.1" 200 -
+
+
+07:21:20 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:21:20] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:22:39 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:22:39] "GET /personas HTTP/1.1" 200 -
+
+
+07:22:39 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:22:39] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:22:43 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:22:43] "GET /personas/ver HTTP/1.1" 200 -
+
+
+07:22:44 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:22:44] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:22:49 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 5[39m
+
+
+07:22:49 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 6[39m
+
+
+07:22:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:22:49] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+07:22:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:22:49] "GET /personas HTTP/1.1" 200 -
+
+
+07:22:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:22:49] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:25:34 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+07:25:34 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+07:25:38 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+07:25:38 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+07:25:39 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:25:39] "GET /personas HTTP/1.1" 200 -
+
+
+07:25:39 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:25:39] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:25:41 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:25:41] "GET /personas/ver HTTP/1.1" 200 -
+
+
+07:25:41 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:25:41] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:25:45 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 6[39m
+
+
+07:25:45 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 7[39m
+
+
+07:25:45 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:25:45] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+07:25:46 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:25:46] "GET /personas HTTP/1.1" 200 -
+
+
+07:25:46 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:25:46] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:26:26 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:26:26] "GET /personas/editar/7 HTTP/1.1" 200 -
+
+
+07:26:26 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:26:26] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:33:54 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\routes\\router.py', reloading
+
+
+07:33:55 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+07:33:57 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+07:33:57 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+07:39:04 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\dao\\daoAdapter.py', reloading
+
+
+07:39:05 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+07:39:07 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+07:39:07 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+07:39:16 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\routes\\router.py', reloading
+
+
+07:39:17 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+07:39:19 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+07:39:20 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
+
+
+07:39:34 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:39:34] "GET /personas HTTP/1.1" 200 -
+
+
+07:39:35 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:39:35] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:39:37 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:39:37] "GET /personas/ver HTTP/1.1" 200 -
+
+
+07:39:38 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:39:38] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:39:50 PM: DEBUG [historialComandoDaoControl.py:33] [31miD: 7[39m
+
+
+07:39:50 PM: INFO [historialComandoDaoControl.py:36] [34mnuevo id = 8[39m
+
+
+07:39:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:39:50] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+07:39:50 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:39:50] "GET /personas HTTP/1.1" 200 -
+
+
+07:39:51 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 19:39:51] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+07:40:40 PM: INFO [_internal.py:97]  * Detected change in 'C:\\Users\\JATM\\Desktop\\Estoy rendido\\Practica1\\controller\\tda\\stack\\StackO.py', reloading
+
+
+07:40:40 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+07:40:42 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+07:40:42 PM: INFO [_internal.py:97]  * Debugger PIN: 281-424-937
